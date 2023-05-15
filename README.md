@@ -1,16 +1,37 @@
-### Hi there 👋
+## Projects
+- https://www.atomiklabs.io/go-lives 
 
-<!--
-**tukwan/tukwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Open Source projects
 
-Here are some ideas to get you started:
+### Chainlink Hackathon - 1st place Polkadot 
+- https://devpost.com/software/jackblock-qwbosy (preview)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Code:**
+- https://github.com/atomiklabs/jackblock-node/pull/17 - feat(balances): transfers & rewards #17 (Rust)
+- https://github.com/atomiklabs/jackblock-node/pull/34 - feat(interface): jackblock ui #34 (UI)
+
+### Secret Network - Token generator
+- https://deploycontracts.io (preview)
+
+**Code:**
+- https://github.com/atomiklabs/scrt-plus (Rust / UI)
+- https://github.com/atomiklabs/deploycontracts.io (UI)
+
+### NFT Marketplace
+- https://github.com/atomiklabs/nft-marketplace (Rust / UI)
+
+**Code:**
+- https://github.com/atomiklabs/nft-marketplace/pull/50 - Market Auctions Factory #50  (Rust)
+- https://github.com/atomiklabs/nft-marketplace/pull/74 - Staking Liquidity Pool  (Rust)
+- https://github.com/atomiklabs/nft-marketplace/pull/71 - Oracles  (Rust)
+- https://github.com/atomiklabs/nft-marketplace/pull/13 - Collection basic #13 (UI)
+
+### Solidity projects
+- https://github.com/tukwan/crypto-exchange
+- https://github.com/tukwan/trading-bot
+- https://github.com/atomiklabs/defuma
+- https://github.com/tukwan/ecommerce
+- https://github.com/STYX2DAI/styx-core
+
+### Substrate Runtime Expert Certification 
+- [Show credential](https://industryconnect.io/Authority/ViewCertificate?guid=c107a636-57a1-483c-91eb-4926d13b9db3)
