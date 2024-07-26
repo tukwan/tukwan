@@ -10,4 +10,3 @@ Assignments:
 - [x] [ethereum](https://github.com/tukwan/pokemon)
 - [x] [game](https://github.com/tukwan/tictactoe)
 - [x] [indexer](https://github.com/tukwan/indexer)
-- [x] [figma](https://github.com/tukwan/cryptoautos)
