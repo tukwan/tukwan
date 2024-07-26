@@ -1,12 +1,13 @@
-Some recent projects.
+Recent projects:
 
 - [x] [koinly.io](https://koinly.io/)
 - [x] [imxtrade.io](https://www.imxtrade.io/)
 - [x] [spartadex.io](https://spartadex.io/)
 - [x] [deploycontracts.io](https://deploycontracts.io)
 
-Assignments.
+Assignments:
 
 - [x] [ethereum](https://github.com/tukwan/pokemon)
 - [x] [game](https://github.com/tukwan/tictactoe)
 - [x] [indexer](https://github.com/tukwan/indexer)
+- [x] [figma](https://github.com/tukwan/cryptoautos)
