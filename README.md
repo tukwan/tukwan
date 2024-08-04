@@ -1,12 +1,23 @@
-Recent projects:
+### About
+
+Senior Full Stack Engineer (MS, Computer Science) with over 10 years of working experience, specializing in Front End Engineering and Web3.
+
+### Recent Projects
 
 - [x] [koinly.io](https://koinly.io/)
 - [x] [imxtrade.io](https://www.imxtrade.io/)
 - [x] [spartadex.io](https://spartadex.io/)
 - [x] [deploycontracts.io](https://deploycontracts.io)
 
-Assignments:
+#### Interview Assignments
 
-- [x] [ethereum](https://github.com/tukwan/pokemon)
+- [x] [web3-ethereum](https://github.com/tukwan/pokemon)
 - [x] [game](https://github.com/tukwan/tictactoe)
 - [x] [indexer](https://github.com/tukwan/indexer)
+
+### Contact
+
+Available for freelance or full-time roles. Get in touch:
+
+- [x] Email: [hello@atlhk.net](hello@atlhk.net)
+- [x] LinkedIn: [nickweb3](https://linkedin.com/in/nickweb3)
