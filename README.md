@@ -11,9 +11,8 @@ Senior Full Stack Engineer (MS, Computer Science) with over 10 years of working 
 
 #### Interview Assignments
 
-- [x] [web3-ethereum](https://github.com/tukwan/pokemon)
-- [x] [game](https://github.com/tukwan/tictactoe)
-- [x] [indexer](https://github.com/tukwan/indexer)
+- [x] [web3-eth](https://github.com/tukwan/pokemon)
+- [x] [token-select](https://github.com/tukwan/token-select)
 
 ### Contact
 
