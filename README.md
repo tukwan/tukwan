@@ -1,16 +1,25 @@
-## Hi there 👋
+### About
 
-<!--
-**tukwan/tukwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Engineer and Web3 Front End Expert
 
-Here are some ideas to get you started:
+Open for work: [hello@atlhk.net](hello@atlhk.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Companies
+
+- [x] [koinly.io](https://koinly.io/)
+- [x] [parity.io](https://www.parity.io/)
+- [x] [finder.com](https://finder.com/)
+- [x] [monterail.com](https://monterail.com/)
+
+#### Projects
+
+- [x] [imxtrade.io](https://www.imxtrade.io/)
+- [x] [spartadex.io](https://spartadex.io/)
+- [x] [playnity.io](https://playnity.io/)
+- [x] [luart.io](https://www.luart.io/)
+- [x] [deploycontracts.io](https://deploycontracts.io)
+
+#### Interview
+
+- [x] [web3-eth](https://github.com/tukwan/pokemon)
+- [x] [game](https://github.com/tukwan/tictactoe)
