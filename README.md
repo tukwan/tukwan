@@ -13,9 +13,9 @@ Open for work: [hello@atlhk.net](hello@atlhk.net)
 
 #### Projects
 
-- [x] [imxtrade.io](https://www.imxtrade.io/)
 - [x] [spartadex.io](https://spartadex.io/)
 - [x] [playnity.io](https://playnity.io/)
+- [x] [imxtrade.io](https://www.imxtrade.io/)
 - [x] [luart.io](https://www.luart.io/)
 - [x] [deploycontracts.io](https://deploycontracts.io)
 
