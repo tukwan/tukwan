@@ -1,8 +1,6 @@
 ### About
 
-Senior Full Stack Engineer and Web3 Front End Expert
-
-Open for work: [hello@atlhk.net](hello@atlhk.net)
+Senior Full Stack Engineer and Web3 Front End Expert | [hello@atlhk.net](hello@atlhk.net)
 
 #### Companies
 
